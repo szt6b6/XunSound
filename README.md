@@ -59,7 +59,9 @@ XunSound 是一个本地运行的 AI 换声与歌曲制作工具。
 下载地址：
 
 ```text
-请查看项目 Releases 或网盘下载链接
+『来自123云盘用户的分享』XunSound_Portable.zip
+链接：https://1859909057.share.123pan.cn/123pan/oBjivd-oQ5vH?pwd=2oZr#
+提取码：2oZr
 ```
 
 下载后：
